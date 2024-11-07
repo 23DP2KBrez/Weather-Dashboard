@@ -14,6 +14,7 @@ public class WeatherService
 
     public WeatherService() 
     {
+        
     }
 
     public WeatherData getWeatherByCity(String city)
